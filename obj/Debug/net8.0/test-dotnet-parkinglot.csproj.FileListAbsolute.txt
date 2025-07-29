@@ -1,0 +1,14 @@
+/home/nabil/Documents/test/test-dotnet-parkinglot/bin/Debug/net8.0/test-dotnet-parkinglot
+/home/nabil/Documents/test/test-dotnet-parkinglot/bin/Debug/net8.0/test-dotnet-parkinglot.deps.json
+/home/nabil/Documents/test/test-dotnet-parkinglot/bin/Debug/net8.0/test-dotnet-parkinglot.runtimeconfig.json
+/home/nabil/Documents/test/test-dotnet-parkinglot/bin/Debug/net8.0/test-dotnet-parkinglot.dll
+/home/nabil/Documents/test/test-dotnet-parkinglot/bin/Debug/net8.0/test-dotnet-parkinglot.pdb
+/home/nabil/Documents/test/test-dotnet-parkinglot/obj/Debug/net8.0/test-dotnet-parkinglot.GeneratedMSBuildEditorConfig.editorconfig
+/home/nabil/Documents/test/test-dotnet-parkinglot/obj/Debug/net8.0/test-dotnet-parkinglot.AssemblyInfoInputs.cache
+/home/nabil/Documents/test/test-dotnet-parkinglot/obj/Debug/net8.0/test-dotnet-parkinglot.AssemblyInfo.cs
+/home/nabil/Documents/test/test-dotnet-parkinglot/obj/Debug/net8.0/test-dotnet-parkinglot.csproj.CoreCompileInputs.cache
+/home/nabil/Documents/test/test-dotnet-parkinglot/obj/Debug/net8.0/test-dotnet-parkinglot.dll
+/home/nabil/Documents/test/test-dotnet-parkinglot/obj/Debug/net8.0/refint/test-dotnet-parkinglot.dll
+/home/nabil/Documents/test/test-dotnet-parkinglot/obj/Debug/net8.0/test-dotnet-parkinglot.pdb
+/home/nabil/Documents/test/test-dotnet-parkinglot/obj/Debug/net8.0/test-dotnet-parkinglot.genruntimeconfig.cache
+/home/nabil/Documents/test/test-dotnet-parkinglot/obj/Debug/net8.0/ref/test-dotnet-parkinglot.dll
